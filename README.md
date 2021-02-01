@@ -3,6 +3,9 @@
 Wikipedia Preview for Web https://github.com/wikimedia/wikipedia-preview <br/>
 Demo link on expo client https://snack.expo.io/@htan/wp-basic-ui-experiment
 
+| <img src="./showcase.png" height="200" /> | <img src="./showcase-gallery.png" height="200" /> |
+| --- | --- |
+
 Basic UI includes 
 
 1. Header with Thumbnail / Wordmark 
